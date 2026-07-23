@@ -13,3 +13,7 @@ Básicamente aprenderemos más sobre Git y GitHub con este proyecto
 
 
 ## inicio del pull request
+
+
+
+# Juan Jose Roman Bernal
